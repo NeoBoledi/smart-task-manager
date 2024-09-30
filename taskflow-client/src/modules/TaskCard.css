@@ -1,0 +1,11 @@
+.btn-edit{
+    background: #4741ae;
+    padding: 0.3rem 1.5rem;
+    margin: 1rem;
+}
+
+.btn-delete{
+    background: #ae4141;
+    padding: 0.3rem 1.5rem;
+    margin: 1rem;
+}

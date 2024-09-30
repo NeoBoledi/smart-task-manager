@@ -1,0 +1,15 @@
+.card{
+    background: rgba(2,0,36,1);
+    padding: 1rem;
+}
+
+.menuItem{
+    border: 2px solid #4741ae;
+}
+
+.activeMenuItem{
+    background: #4741ae;
+}
+.customButton{
+    background: #4741ae;
+}
